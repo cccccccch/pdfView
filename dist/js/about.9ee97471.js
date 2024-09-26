@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue2demo"]=self["webpackChunkvue2demo"]||[]).push([[594],{3050:function(t,e,s){s.r(e),s.d(e,{default:function(){return l}});var u=function(){var t=this;t._self._c;return t._m(0)},n=[function(){var t=this,e=t._self._c;return e("div",{staticClass:"about"},[e("h1",[t._v("This is an about page")]),e("iframe",{attrs:{src:"http://localhost:8080/怎么删除wps中最后的空白页.pdf",width:"800",height:"600"}})])}],a=s(2738),r={},i=(0,a.A)(r,u,n,!1,null,null,null),l=i.exports}}]);
+//# sourceMappingURL=about.9ee97471.js.map
